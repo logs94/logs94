@@ -3,7 +3,7 @@ GitHub Profile README Generator
 Star this repo13448
 Fork on GitHub3536
 <h1 align="center">Hi 👋, I'm IDOWU OLUWATOBI DAMILOLA</h1>
-<h3 align="center">DevOps | Product Designer | Web designer | Mobile App:IOS,Android</h3>
+<h3 align="center">DevOps Engieer | Product Designer | Web designer | Mobile App:&nbsp;IOS,&nbsp;Android</h3>
 <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/28/66/72/286672f88062e0bf3edc28ec9120b25d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logs94&label=Profile%20views&color=0e75b6&style=flat" alt="logs94" /> </p>
