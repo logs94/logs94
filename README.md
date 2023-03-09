@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm IDOWU OLUWATOBI DAMILOLA</h1>
-<h3 align="center">UI /UX DESIGN| Product Designer | Web designer | Mobile App:&nbsp;IOS,&nbsp;Android</h3>
+<h3 align="center">UI/UX DESIGN|Digital Product Designer | Web designer | Mobile App:&nbsp;IOS,&nbsp;Android</h3>
 <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/28/66/72/286672f88062e0bf3edc28ec9120b25d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logs94&label=Profile%20views&color=0e75b6&style=flat" alt="logs94" /> </p>
@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://codepen.io/@logs94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@logs94" height="30" width="40" /></a> -->
-<a href="https://twitter.com/IhTconcept" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="https://dribbble.com/itconcept1" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="https://dribbble.com/itconcept1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
