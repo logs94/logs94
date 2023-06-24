@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://codepen.io/@logs94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@logs94" height="30" width="40" /></a> -->
+<a href="[https://codepen.io/@logs94](https://github.com/idowu-tobi-damilola)" target="blank"><img align="center" src="" alt="@logs94" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="" height="30" width="40" /></a>
 </p>
 
