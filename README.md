@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/idowu-tobi-damilola" target="blank"><img align="center" src="" alt="DEXTHER.DESIGNS" height="30" width="40" />IDOWU OLUWATOBI DAMILOLA</a>
+<a href="https://github.com/idowu-tobi-damilola" target="blank"><img align="center" src="" alt="" height="30" width="40" />IDOWU OLUWATOBI DAMILOLA</a>
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="" height="30" width="40" /></a>
 </p>
 
