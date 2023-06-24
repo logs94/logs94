@@ -1,5 +1,5 @@
 
-<h1 align="center">YOU CAN CONNECT WITH ME ON GITHUB ACCOUNT </h1>
+<h1 align="center">YOU CAN CONNECT WITH ME ON NEW GITHUB ACCOUNT.</h1>
 <h3 align="center">https://github.com/idowu-tobi-damilola</h3>
 <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/28/66/72/286672f88062e0bf3edc28ec9120b25d.gif">
 
